@@ -12,3 +12,6 @@ It's super easy with Meteor! Just do:
 # meteor deploy <some_subdomain>.meteor.com
 ```
 
+# Screenshot
+
+![Screenshot](http://i.imgur.com/mnOpr.png)

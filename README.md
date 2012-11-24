@@ -1,4 +1,4 @@
-# Giftlist
+# Meteor Gift List
 
 This is a super quick hack of [Meteor](http://meteor.com)'s example "Todos" app. Share the giftlist with all your friends and family!
 

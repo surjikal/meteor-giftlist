@@ -5,13 +5,13 @@ This is a super quick hack of [Meteor](http://meteor.com)'s example "Todos" app.
 Check it out here: http://giftlist.meteor.com
 
 
-# Deployment
+## Deployment
 
 It's super easy with Meteor! Just do:
 ```
 # meteor deploy <some_subdomain>.meteor.com
 ```
 
-# Screenshot
+## Screenshot
 
 ![Screenshot](http://i.imgur.com/mnOpr.png)
